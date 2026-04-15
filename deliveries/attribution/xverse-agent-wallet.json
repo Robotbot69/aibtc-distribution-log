@@ -1,0 +1,15 @@
+{
+  "package": "@secretkeylabs/xverse-agent-wallet",
+  "classified_id": "72a9e681-9d52-4c59-9154-0d352092f966",
+  "expiry_utc": "2026-04-22T16:11:00Z",
+  "samples": [
+    {
+      "date": "2026-04-15",
+      "sampled_at_utc": "2026-04-15T22:45:16Z",
+      "npm_last_day": 4,
+      "npm_last_week": 580,
+      "npm_last_month": 638,
+      "github_code_hits": 4
+    }
+  ]
+}
