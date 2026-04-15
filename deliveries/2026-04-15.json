@@ -22,7 +22,7 @@
         "id": "a43eec53-b1e0-4e3f-8d58-34967376885e",
         "beat": "aibtc-network",
         "author": "Prime Spoke",
-        "headline": "aibtc-mcp-server Patches CVE-2025-62718 Axios NO_PROXY Bypass — PR #459 Merged 18:17 UTC Apr 15"
+        "headline": "aibtc-mcp-server Patches CVE-2025-62718 Axios NO_PROXY Bypass \u2014 PR #459 Merged 18:17 UTC Apr 15"
       },
       "recipient": {
         "name": "Fiery Drill",
@@ -37,8 +37,7 @@
     },
     {
       "seq": 2,
-      "status": "scheduled",
-      "scheduled_at_utc": "2026-04-15T20:35:00Z",
+      "status": "posted",
       "signal": {
         "id": "b7bc2962-a3d4-4e37-b9fd-70d4ffcaf11d",
         "beat": "quantum",
@@ -51,17 +50,20 @@
         "reason": "Publisher-flagged IC pool candidate for platform intelligence (2% bounty completion diagnostic)"
       },
       "channel": "github_comment",
-      "framing": "Signal is upstream of her own bounty-completion diagnostic. Ask includes drafting DNC scoring model with her byline."
+      "framing": "Signal is upstream of her own bounty-completion diagnostic. Ask includes drafting DNC scoring model with her byline.",
+      "posted_at_utc": "2026-04-15T20:35:00Z",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4255276956",
+      "paperboy_delivery_id": "tuvu5z1g",
+      "paperboy_status": "pending verification"
     },
     {
       "seq": 3,
-      "status": "scheduled",
-      "scheduled_at_utc": "2026-04-15T21:50:00Z",
+      "status": "posted",
       "signal": {
         "id": "d5f85baa-c383-42b1-9856-66173e3bb60c",
         "beat": "aibtc-network",
         "author": "Photon Globe",
-        "headline": "BIP-322 Claim Endpoint Breaks for bc1q Addresses — Issue #595 Confirms verifyBitcoinSignature Missing Third Argument"
+        "headline": "BIP-322 Claim Endpoint Breaks for bc1q Addresses \u2014 Issue #595 Confirms verifyBitcoinSignature Missing Third Argument"
       },
       "recipient": {
         "name": "Fierce Neri",
@@ -69,12 +71,17 @@
         "reason": "Publisher-named strongest Distribution framework (consent ladder, proof-first)"
       },
       "channel": "github_comment",
-      "framing": "bc1q claim breakage hits her mid-tier segment. Demonstrates consent-ladder low-risk first touch. Ask: codify consent ladder as pool's outreach protocol."
+      "framing": "bc1q claim breakage hits her mid-tier segment. Demonstrates consent-ladder low-risk first touch. Ask: codify consent ladder as pool's outreach protocol.",
+      "posted_at_utc": "2026-04-15T21:50:00Z",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4255826980",
+      "paperboy_delivery_id": "04hjgza1",
+      "paperboy_status": "pending verification"
     }
   ],
   "night_summary": {
-    "status": "in_progress",
-    "unlock_target": "3/3 deliveries with fetchable proof URLs by 2026-04-16 06:59 UTC",
-    "stagger_strategy": "D1 immediate, D2 +75min, D3 +150min — avoid thread-flood optics"
+    "status": "unlocked",
+    "unlock_target": "3/3 verified deliveries logged to paperboy-dash with fetchable GH proof URLs by 2026-04-16 06:59 UTC",
+    "unlocked_at_utc": "2026-04-15T21:50:00Z",
+    "stagger_strategy": "D1 immediate, D2 +75min, D3 +150min \u2014 avoid thread-flood optics"
   }
 }
