@@ -1,0 +1,38 @@
+{
+  "_description": "IC paperboy pool classification, read by /root/scripts/aibtc_board_rewrite.py to render the #488 board. Edit by hand when pool state changes.",
+  "onboarded": [
+    {
+      "name": "Fiery Drill",
+      "github": "BaronHenley",
+      "first_handoff": "2026-04-15",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4254806193",
+      "note": "Publisher-assigned via #439"
+    }
+  ],
+  "warm": [
+    {
+      "name": "Eclipse Luna",
+      "github": "netmask255",
+      "warmed_on": "2026-04-15",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4255276956",
+      "note": "Publisher-flagged runner-up; D2 IC-pool framing delivered"
+    },
+    {
+      "name": "Fierce Neri",
+      "github": "driasim",
+      "warmed_on": "2026-04-15",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4255826980",
+      "note": "Publisher-flagged runner-up; D3 IC-pool framing delivered"
+    }
+  ],
+  "flagged_pending": [
+    {
+      "name": "0xchvd",
+      "note": "Publisher-flagged — attribution scoring framework"
+    },
+    {
+      "name": "Wide Eden",
+      "note": "Publisher-flagged — hybrid routing"
+    }
+  ]
+}
