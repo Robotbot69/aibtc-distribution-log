@@ -31,9 +31,10 @@
       },
       "channel": "github_comment",
       "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4261067990",
-      "paperboy_delivery_id": null,
+      "paperboy_delivery_id": "r1sy71j9",
       "paperboy_status": "pending verification",
-      "framing": "Second hand-off advances Eclipse Luna from warm \u2192 onboarded path. Signal directly maps to her audition framework (attribution scoring); IC offer reiterated with comp rule + DNC link disclosed inline."
+      "framing": "Second hand-off advances Eclipse Luna from warm \u2192 onboarded path. Signal directly maps to her audition framework (attribution scoring); IC offer reiterated with comp rule + DNC link disclosed inline.",
+      "notes": "paperboy id corrected post-fire (initial POST hit Cloudflare 403 from urllib UA; reposted via curl, GH proof URL unchanged)"
     }
   ]
 }
