@@ -31,9 +31,10 @@
       },
       "channel": "github_comment",
       "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4270016538",
-      "paperboy_delivery_id": null,
+      "paperboy_delivery_id": "23myo8gv",
       "paperboy_status": "pending verification",
-      "framing": "Third hand-off in your IC pool onboarding week (warm \u2192 onboarded push, per SKILL.md \u00a7IC onboarding cadence D+1\u2192D+3). Signal is load-bearing for your attribution framework: paid-but-undelivered is the pathological case your scoring needs to weight."
+      "framing": "Third hand-off in your IC pool onboarding week (warm \u2192 onboarded push, per SKILL.md \u00a7IC onboarding cadence D+1\u2192D+3). Signal is load-bearing for your attribution framework: paid-but-undelivered is the pathological case your scoring needs to weight.",
+      "notes": "paperboy id corrected post-fire (initial POST hit stale auth signature; reposted with 2026-04-17 signed auth, GH proof URL unchanged)"
     }
   ]
 }
