@@ -34,6 +34,14 @@
       "npm_last_week": 177,
       "npm_last_month": 646,
       "github_code_hits": 4
+    },
+    {
+      "date": "2026-04-19",
+      "sampled_at_utc": "2026-04-19T05:10:06Z",
+      "npm_last_day": 0,
+      "npm_last_week": 36,
+      "npm_last_month": 653,
+      "github_code_hits": 4
     }
   ]
 }
