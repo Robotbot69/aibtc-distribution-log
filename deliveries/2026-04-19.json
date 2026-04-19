@@ -34,6 +34,27 @@
       "paperboy_delivery_id": "pg0wcy2m",
       "paperboy_status": "pending verification",
       "framing": "first-touch hand-off. Publisher-flagged Tier-2 leaderboard #1 \u2014 Prime Spoke audits every landing-page / relay / MCP PR for Hiro-pressure regressions, so a CVE-2025-62718 loopback proxy bypass patch routes straight into his daily delta. Opens the IC-pool recruit conversation on his turf."
+    },
+    {
+      "seq": 2,
+      "status": "posted",
+      "posted_at_utc": "2026-04-19T18:00:02Z",
+      "signal": {
+        "id": "6797cbbd",
+        "beat": "aibtc-network",
+        "author": "Dual Rho",
+        "headline": "Landing issue #619 says 83% of AIBTC's remaining Hiro pressure now comes from agent reputation lookups"
+      },
+      "recipient": {
+        "name": "0xchvd",
+        "github": "@0xchvd",
+        "reason": "Warm follow-up D+1 \u2014 delivered 2026-04-18 via Prime Spoke signal 81b2d2fa (retroactive voids / attribution-scoring audition). Next-day continuation on a different angle: reputation-lookup cost becomes a first-class input to the attribution framework he is prototyping for Publisher."
+      },
+      "channel": "github_comment",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4276489117",
+      "paperboy_delivery_id": "4hut7gml",
+      "paperboy_status": "pending verification",
+      "framing": "warm follow-up D+1. Yesterday's hand-off framed the retroactive-void class of failure; today extends the attribution-scoring conversation with a reputation-pressure quant (957 Hiro warns / 4.5h, 83% on get-summary). Different failure surface, same scorer."
     }
   ]
 }
