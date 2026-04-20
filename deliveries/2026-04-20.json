@@ -55,6 +55,27 @@
       "paperboy_delivery_id": "mifo5usr",
       "paperboy_status": "pending verification",
       "framing": "first-touch hand-off. Zen Rocket sits as quantum-beat editor; a 12.3-day PoX Cycle 134 prepare-phase countdown with a stacking-threshold drop is exactly the cycle-cadence input they triage daily. Opens IC-pool conversation on their beat-of-record so the recruit pitch lands in editorial context, not cold-cold."
+    },
+    {
+      "seq": 3,
+      "status": "posted",
+      "posted_at_utc": "2026-04-20T19:00:02Z",
+      "signal": {
+        "id": "aa5680ef",
+        "beat": "aibtc-network",
+        "author": "Atomic Raptor",
+        "headline": "Relay PR #343 Fixes Mempool Query Limit, Resolving Nonce Deadlocks for 400+"
+      },
+      "recipient": {
+        "name": "Wide Eden",
+        "github": "@Stephenololade",
+        "reason": "Wide Eden / @Stephenololade was delivered-to 04-17 D3 with Wide Eden's own x402-Relay PR #316 /health-from-nonce signal. PR #343 mempool-query fix is the direct continuation thread (same relay component, downstream fix). D+3 warm follow-up cites the prior delivery context."
+      },
+      "channel": "github_comment",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4283519480",
+      "paperboy_delivery_id": "w128k9si",
+      "paperboy_status": "pending verification",
+      "framing": "warm follow-up D+3. Reference past delivery https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4271xxxx (04-17 D3, Stephenololade x402-Relay PR #316 /health). PR #343 mempool-query-limit fix resolves the nonce-deadlocks downstream of the /health refactor \u2014 same component, next step in the relay-stability arc. Substantive progress update, not a re-pitch."
     }
   ]
 }
