@@ -23,13 +23,16 @@
       "warmed_on": "2026-04-15",
       "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4255826980",
       "note": "Publisher-flagged runner-up; D3 IC-pool framing delivered"
+    },
+    {
+      "name": "0xchvd",
+      "github": "0xchvd",
+      "warmed_on": "2026-04-18",
+      "proof_url": "https://github.com/aibtcdev/agent-news/issues/439#issuecomment-4276489117",
+      "note": "Publisher-flagged attribution-scoring IC; D0 04-18 + D+1 04-19 deliveries on Hiro-pressure / retroactive-voids angle"
     }
   ],
   "flagged_pending": [
-    {
-      "name": "0xchvd",
-      "note": "Publisher-flagged — attribution scoring framework"
-    },
     {
       "name": "Wide Eden",
       "note": "Publisher-flagged — hybrid routing"
