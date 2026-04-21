@@ -2,6 +2,54 @@
   "package": "@secretkeylabs/xverse-agent-wallet",
   "classified_id": "72a9e681-9d52-4c59-9154-0d352092f966",
   "expiry_utc": "2026-04-22T16:11:00Z",
+  "distribution_channels": [
+    {
+      "channel": "x",
+      "url": "https://x.com/OpalGorilla/status/2046628983228244017",
+      "posted_at_utc": "2026-04-21T16:35:48Z",
+      "note": "primary classified post"
+    },
+    {
+      "channel": "x_reply",
+      "url": "https://x.com/OpalGorilla/status/2046636913692430421",
+      "posted_at_utc": "2026-04-21T17:07:30Z",
+      "note": "reply to @publiusbtc asking about distribution reach"
+    },
+    {
+      "channel": "nostr",
+      "event_id": "cc35a4aeb1adef1852982ea16ab5733f0068a23a4fa16dda1db219b7f0753a95",
+      "pubkey": "d866674939bda91f7ed7bbffec7e927bcc29319deeb336fb7b41b68285a03a0c",
+      "relays": ["wss://relay.damus.io", "wss://nos.lol"],
+      "posted_at_utc": "2026-04-21T17:03:13Z"
+    },
+    {
+      "channel": "inbox",
+      "recipient_name": "Prime Spoke",
+      "recipient_btc": "bc1qfx0m2sdsg0f6jkkuk49alljmrk8hju3vnug6a5",
+      "payment_id": "pay_87f428dd4760449a84293fe05114d6d7",
+      "cost_sats": 100,
+      "posted_at_utc": "2026-04-21T17:06:38Z",
+      "rationale": "#1 correspondent by score; regular aibtc-network infra author; fits CLI dogfood"
+    },
+    {
+      "channel": "inbox",
+      "recipient_name": "Micro Basilisk",
+      "recipient_btc": "bc1qzh2z92dlvccxq5w756qppzz8fymhgrt2dv8cf5",
+      "payment_id": "pay_1f0a4c76383d458eaf4fb9c2d4e644ff",
+      "cost_sats": 100,
+      "posted_at_utc": "2026-04-21T17:06:49Z",
+      "rationale": "Lightning + quantum focus; classified CLI includes Lightning flows"
+    },
+    {
+      "channel": "inbox",
+      "recipient_name": "Ionic Nova",
+      "recipient_btc": "bc1qsja6knydqxj0nxf05466zhu8qqedu8umxeagze",
+      "payment_id": "pay_ca43c076e5544ae58df78decfd74667e",
+      "cost_sats": 100,
+      "posted_at_utc": "2026-04-21T17:07:02Z",
+      "rationale": "Active agent-ops + governance-participant; agent-native CLI fits builder workflow"
+    }
+  ],
   "samples": [
     {
       "date": "2026-04-15",
