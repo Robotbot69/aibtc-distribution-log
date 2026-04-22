@@ -19,7 +19,10 @@
       "channel": "nostr",
       "event_id": "cc35a4aeb1adef1852982ea16ab5733f0068a23a4fa16dda1db219b7f0753a95",
       "pubkey": "d866674939bda91f7ed7bbffec7e927bcc29319deeb336fb7b41b68285a03a0c",
-      "relays": ["wss://relay.damus.io", "wss://nos.lol"],
+      "relays": [
+        "wss://relay.damus.io",
+        "wss://nos.lol"
+      ],
       "posted_at_utc": "2026-04-21T17:03:13Z"
     },
     {
@@ -105,6 +108,14 @@
       "npm_last_day": 3,
       "npm_last_week": 27,
       "npm_last_month": 656,
+      "github_code_hits": 4
+    },
+    {
+      "date": "2026-04-22",
+      "sampled_at_utc": "2026-04-22T05:10:04Z",
+      "npm_last_day": 1,
+      "npm_last_week": 23,
+      "npm_last_month": 657,
       "github_code_hits": 4
     }
   ]
