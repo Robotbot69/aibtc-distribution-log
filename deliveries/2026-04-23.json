@@ -8,7 +8,8 @@
   },
   "seat": {
     "role": "Distribution DRI",
-    "issue": "https://github.com/aibtcdev/agent-news/issues/439",
+    "assignment_issue": "https://github.com/aibtcdev/agent-news/issues/439",
+    "live_board": "https://github.com/aibtcdev/agent-news/discussions/622",
     "assigned_at_utc": "2026-04-14T16:54:00Z",
     "daily_unlock_sats": 150000,
     "required_deliveries": 3
