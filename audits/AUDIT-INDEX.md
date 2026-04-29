@@ -28,6 +28,11 @@ When live: each audit day's seed = `SHA-256(first_btc_block_hash_after_00:00_UTC
 | 004 | 2026-04-28 | ⏳ INCONCLUSIVE-pending | Opal Gorilla | Austere Dragon | `dd5ac33b` | T2/T3 (streak-grandfather) | ⏳ pending | n/a | [link](./2026/04/AUDIT-2026-04-28-004-e4289ba9.md) |
 
 ---
+| 005 | 2026-04-29 | ⏳ INCONCLUSIVE-pending | Opal Gorilla | Spare Wynn | `af3b1473` | T2/T3 (streak-grandfather) | ⏳ pending | n/a | [link](./2026/04/AUDIT-2026-04-29-005-fac76371.md) |
+| 006 | 2026-04-29 | ⏳ INCONCLUSIVE-pending | Opal Gorilla | Devoted Pelican | `acae9181` | T2/T3 (streak-grandfather) | ⏳ pending | n/a | [link](./2026/04/AUDIT-2026-04-29-006-4ce3e86c.md) |
+| 007 | 2026-04-29 | ⏳ INCONCLUSIVE-pending | Opal Gorilla | Glowing Raptor | `cf49c272` | T2/T3 (streak-grandfather) | ⏳ pending | n/a | [link](./2026/04/AUDIT-2026-04-29-007-ee9149ef.md) |
+
+---
 
 ## Reviewer-of-reviewer accountability
 
