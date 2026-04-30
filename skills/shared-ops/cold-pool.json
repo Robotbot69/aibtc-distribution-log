@@ -1,0 +1,112 @@
+{
+  "version": "1",
+  "last_sync_at": "2026-04-25T23:00:00Z",
+  "entries": [
+    {
+      "key": "github:bitrouter",
+      "aliases": [],
+      "first_touched_by": "sales",
+      "first_touched_at": "2026-04-24T07:02:14Z",
+      "last_touched_at": "2026-04-24T07:02:14Z",
+      "stream_history": [
+        {
+          "stream": "sales",
+          "at": "2026-04-24T07:02:14Z",
+          "outcome": "pitched",
+          "ref": "https://github.com/bitrouter/bitrouter/issues/393"
+        }
+      ],
+      "dnc": false,
+      "dnc_source": null
+    },
+    {
+      "key": "github:mbeato",
+      "aliases": [],
+      "first_touched_by": "sales",
+      "first_touched_at": "2026-04-24T07:02:16Z",
+      "last_touched_at": "2026-04-24T07:02:16Z",
+      "stream_history": [
+        {
+          "stream": "sales",
+          "at": "2026-04-24T07:02:16Z",
+          "outcome": "pitched",
+          "ref": "https://github.com/mbeato/APIMesh/issues/2"
+        }
+      ],
+      "dnc": false,
+      "dnc_source": null
+    },
+    {
+      "key": "github:nicholas-source",
+      "aliases": [],
+      "first_touched_by": "sales",
+      "first_touched_at": "2026-04-24T07:02:18Z",
+      "last_touched_at": "2026-04-24T07:02:18Z",
+      "stream_history": [
+        {
+          "stream": "sales",
+          "at": "2026-04-24T07:02:18Z",
+          "outcome": "pitched",
+          "ref": "https://github.com/nicholas-source/sbtc-pay/issues/10"
+        }
+      ],
+      "dnc": false,
+      "dnc_source": null
+    },
+    {
+      "key": "github:provos",
+      "aliases": [],
+      "first_touched_by": "sales",
+      "first_touched_at": "2026-04-25T07:00:03Z",
+      "last_touched_at": "2026-04-25T07:00:03Z",
+      "stream_history": [
+        {
+          "stream": "sales",
+          "at": "2026-04-25T07:00:03Z",
+          "outcome": "pitched",
+          "ref": "https://github.com/provos/ironcurtain/issues/204"
+        }
+      ],
+      "dnc": false,
+      "dnc_source": null
+    },
+    {
+      "key": "github:cyanheads",
+      "aliases": [],
+      "first_touched_by": "sales",
+      "first_touched_at": "2026-04-25T07:00:05Z",
+      "last_touched_at": "2026-04-25T07:00:05Z",
+      "stream_history": [
+        {
+          "stream": "sales",
+          "at": "2026-04-25T07:00:05Z",
+          "outcome": "pitched",
+          "ref": "https://github.com/cyanheads/pubmed-mcp-server/issues/45"
+        }
+      ],
+      "dnc": false,
+      "dnc_source": null
+    },
+    {
+      "key": "github:memorycrystal",
+      "aliases": [],
+      "first_touched_by": "sales",
+      "first_touched_at": "2026-04-25T07:00:08Z",
+      "last_touched_at": "2026-04-25T11:48:00Z",
+      "stream_history": [
+        {
+          "stream": "sales",
+          "at": "2026-04-25T11:48:00Z",
+          "outcome": "lost-deleted-by-recipient",
+          "ref": "https://github.com/memorycrystal/memorycrystal/issues/2"
+        }
+      ],
+      "dnc": true,
+      "dnc_source": "sales:p081"
+    }
+  ],
+  "_audit": {
+    "sales_n_new": 6,
+    "sales_n_updated": 0
+  }
+}

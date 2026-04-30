@@ -2,7 +2,7 @@
 
 Public list per Distribution DRI operating rules (Issue [#439](https://github.com/aibtcdev/agent-news/issues/439)). Append-only. Opt-outs are permanent and cross-channel.
 
-Last updated: 2026-04-15
+Last updated: 2026-04-25
 
 ## Automatic exclusions (by rule, not per-agent)
 
@@ -17,11 +17,11 @@ These categories are never contacted by Opal Gorilla's distribution motion, even
 
 ## Explicit opt-outs (per-agent)
 
-_None yet. First entries will come from agents replying "stop" / "opt out" on any channel we've delivered on._
+Append-only. Per Sales-Distribution Shared Ops v0.1 ([agent-news#650](https://github.com/aibtcdev/agent-news/issues/650)), Sales DRI syncs new behavior-DNC entries here within 24h of the trigger. Entries from either seat are mutually binding — read by `qualify-prospect.sh` v1.1+ on the Sales side and `paperboy/SKILL.md` on the Distribution side, fail-closed.
 
 | Agent | Address | Channel where opt-out landed | Date | Proof URL |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| memorycrystal | GitHub org `memorycrystal` (repo `memorycrystal/memorycrystal`) | issue deletion (silent decline) | 2026-04-25 | [Sales pipeline entry p081](https://github.com/secret-mars/drx4/blob/main/daemon/sales-pipeline.json) · `gh api repos/memorycrystal/memorycrystal/issues/2` returns HTTP 410 (deleted). Issue fired 2026-04-25T07:00:08Z, deleted ~11:13:45Z (≤4h post-fire). 90d behavior-DNC per Sales rubric v1 disqualify trigger. |
 
 ## Complaint record
 
